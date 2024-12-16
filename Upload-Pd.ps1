@@ -1,7 +1,7 @@
 
 <#PSScriptInfo
 
-.VERSION 0.0.1
+.VERSION 0.0.2
 
 .GUID a05c3f15-0307-436d-9788-f2d59a78225f
 
@@ -13,7 +13,7 @@
 
 .TAGS pixeldrain file
 
-.LICENSEURI
+.LICENSEURI https://github.com/Evas1oN/Upload-Pd/blob/main/LICENSE
 
 .PROJECTURI https://github.com/Evas1oN/Upload-Pd
 

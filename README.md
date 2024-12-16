@@ -16,3 +16,10 @@ setx PIXELDRAIN_API_KEY <YOUR KEY>
 ```powershell
 Upload-Pd -FilePath filename.txt -ApiKey <API_KEY>
 ```
+With environment variable
+```
+Upload-Pd -FilePath filename.txt
+```
+
+# Context Menu item
+Create shortcut inside `%APPDATA%\Microsoft\Windows\SendTo` with `C:\Program Files\PowerShell\7\pwsh.exe" "C:\Users\<YOUR USER>\Documents\PowerShell\Scripts\Upload-Pd.ps1`
