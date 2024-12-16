@@ -22,4 +22,4 @@ Upload-Pd -FilePath filename.txt
 ```
 
 # Context Menu item
-Create shortcut inside `%APPDATA%\Microsoft\Windows\SendTo` with `C:\Program Files\PowerShell\7\pwsh.exe" "C:\Users\<YOUR USER>\Documents\PowerShell\Scripts\Upload-Pd.ps1`
+Create shortcut inside `%APPDATA%\Microsoft\Windows\SendTo` with `"C:\Program Files\PowerShell\7\pwsh.exe" "C:\Users\<YOUR USER>\Documents\PowerShell\Scripts\Upload-Pd.ps1"`
